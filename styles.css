@@ -1,0 +1,35 @@
+body {
+    background: black;
+}
+.feed {
+    margin: 35%;
+    background: white;
+}
+.cabecero {
+    display: flex;
+    font-size: 30px;
+    margin: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.cabecero p {
+    font-size: 15px;
+    margin-left: 10px;
+}
+.cab1 {
+    display: flex;
+    margin-top: 15px;
+}
+.cuerpo {
+    margin: 10px;
+    padding: 0 0 5px;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px
+}
